@@ -17,6 +17,8 @@ Recurrent Neural Networks (RNN), and Self-Organizing Maps (SOM).
 - [Part 4 - Self-Organizing Maps (SOM)](#part-4---self-organizing-maps-som)
   - [1-som.ipynb](#1-somipynb)
   - [2-mega_case_study.ipynb](#2-mega_case_studyipynb)
+- [Part 5 - Boltzmann Machines (BM)](#part-5---boltzmann-machines-bm)
+  - [rbm.ipynb](#rbmipynb)
 
 ---
 
@@ -99,6 +101,22 @@ SOMs are especially useful for dimensionality reduction and visualizing high-dim
     - Step-by-step walkthrough of a complete data science workflow, including data preprocessing, SOM training, and evaluation.
     - Visualizations and interpretation of clustering results to showcase the power of SOMs in complex data scenarios.
     - Discussion on real-world applications of SOMs, such as customer segmentation, fraud detection, and recommendation systems.
+
+---
+
+### Part 5 - Boltzmann Machines (BM)
+
+<a name="rbmipynb"></a>
+
+Boltzmann Machines (BM) are a type of stochastic neural network that can learn a probability distribution over its set of inputs. Restricted Boltzmann Machines (RBMs) are widely used for dimensionality reduction, classification, and feature learning tasks.
+
+- **File**: `rbm.ipynb`
+  - **Description**: This notebook covers the essentials of implementing a Boltzmann Machine, specifically a Restricted Boltzmann Machine (RBM), including:
+    - Understanding the basics of RBMs and their application in data representation.
+    - Building and training an RBM using hidden layers and probabilistic weights.
+    - Demonstrating how to use RBMs for feature extraction and dimensionality reduction.
+    - Applications of RBMs in collaborative filtering and unsupervised learning tasks.
+    - Evaluating the performance and impact of RBMs in real-world scenarios through metrics and visualizations.
 
 ---
 
