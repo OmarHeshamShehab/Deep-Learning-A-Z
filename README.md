@@ -22,6 +22,8 @@ Recurrent Neural Networks (RNN), and Self-Organizing Maps (SOM).
 
 ### Part 1 - Artificial Neural Networks (ANN)
 
+<a name="annipynb"></a>
+
 This section introduces Artificial Neural Networks (ANN), a fundamental type of neural network. 
 ANNs are used for basic classification and regression tasks, focusing on building a model with densely connected (fully connected) layers.
 
@@ -36,6 +38,9 @@ ANNs are used for basic classification and regression tasks, focusing on buildin
 ---
 
 ### Part 2 - Convolutional Neural Networks (CNN)
+
+<a name="1-cnnipynb"></a>
+<a name="2-cnnipynb"></a>
 
 Convolutional Neural Networks (CNNs) are widely used for image classification and computer vision tasks. 
 This section contains two notebooks that demonstrate building CNN architectures for image processing, focusing on extracting spatial features.
@@ -58,6 +63,8 @@ This section contains two notebooks that demonstrate building CNN architectures 
 
 ### Part 3 - Recurrent Neural Networks (RNN)
 
+<a name="rnnipynb"></a>
+
 Recurrent Neural Networks (RNNs) are designed for sequential data, where the order of data points matters, such as time series or language sequences. 
 This part provides a deep dive into RNNs and how they maintain memory over sequences.
 
@@ -72,6 +79,9 @@ This part provides a deep dive into RNNs and how they maintain memory over seque
 ---
 
 ### Part 4 - Self-Organizing Maps (SOM)
+
+<a name="1-somipynb"></a>
+<a name="2-mega_case_studyipynb"></a>
 
 Self-Organizing Maps (SOMs) are an unsupervised learning algorithm commonly used for clustering and visualization tasks. 
 SOMs are especially useful for dimensionality reduction and visualizing high-dimensional data patterns.
